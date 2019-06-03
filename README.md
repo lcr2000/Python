@@ -8,7 +8,7 @@
 
 - 通过爬取golang工作岗位名称制作的词云
 
-  ![](C:\Users\Administrator\Desktop\地点.png)
+  ![](https://github.com/fangguizhen/Python/blob/master/jobs/%E5%9C%B0%E7%82%B9.png)
 
 - 通过爬取golang工作地点制作的词云
 
