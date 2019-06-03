@@ -8,9 +8,8 @@
 
 - 通过爬取golang工作岗位名称制作的词云
 
-  ![1559562066964](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1559562066964.png)
-  
+  ![](C:\Users\Administrator\Desktop\地点.png)
 
 - 通过爬取golang工作地点制作的词云
 
-  ![1559562086043](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1559562086043.png)
+  ![](C:\Users\Administrator\Desktop\岗位名称.png)
