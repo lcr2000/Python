@@ -18,7 +18,9 @@
 ### 2、Tourism
 
 * 通过爬取去哪儿网热门旅游景点数据(主要通过xpath爬取)，通过调用百度地图API，将数据可视化。
-* 项目开发环境和技术
+
+#### 项目开发环境和技术
+
 * 1、系统及开发环境：Win7 + PyCharm
 * 2、语言及框架：Python 3.7.3 + Django
 * 3、主要模块和库：Requests + Re + Json + Pands + Numpy等
