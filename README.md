@@ -15,3 +15,6 @@
   ![](https://github.com/fangguizhen/Python/blob/master/jobs/%E5%9C%B0%E7%82%B9.png)
   
  
+### 2、Tourism
+* 通过爬取去哪儿网热门旅游景点数据，通过调用百度地图API,将数据可视化
+ ![](https://github.com/fangguizhen/Python/blob/master/Tourism/pic/1.png)
