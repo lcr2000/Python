@@ -10,11 +10,11 @@
 
 - 1、通过爬取golang工作岗位名称制作的词云
 
-  ![]( https://github.com/fangguizhen/Python/blob/master/jobs/%E5%B2%97%E4%BD%8D%E5%90%8D%E7%A7%B0.png)
+  ![]( https://github.com/lcr2000/Python/blob/master/jobs/%E5%B2%97%E4%BD%8D%E5%90%8D%E7%A7%B0.png)
 
 - 2、通过爬取golang工作地点制作的词云
 
-  ![](https://github.com/fangguizhen/Python/blob/master/jobs/%E5%9C%B0%E7%82%B9.png)
+  ![](https://github.com/lcr2000/Python/blob/master/jobs/%E5%9C%B0%E7%82%B9.png)
   
  
 ### 二、Tourism
